@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sinnuel
 - 👀 I’m interested in IT.
 - 🌱 I’m currently learning HTML/CSS/JS/Python
-- 📫 you can reach me on telegram @Sinnuel
+- 📫 You can reach me on telegram @Sinnuel
 
 <!---
 Sinnuel/Sinnuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
